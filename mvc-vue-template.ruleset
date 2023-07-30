@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RuleSet Name="Application Rule Set" Description=" " ToolsVersion="17.0">
+  <Rules AnalyzerId="Roslynator.CSharp.Analyzers" RuleNamespace="Roslynator.CSharp.Analyzers">
+    <Rule Id="RCS1046" Action="Warning" />
+    <Rule Id="RCS1047" Action="Warning" />
+    <Rule Id="RCS1063" Action="None" />
+    <Rule Id="RCS1237" Action="None" />
+    <Rule Id="RCS1252" Action="Info" />
+  </Rules>
+  <Rules AnalyzerId="Roslynator.Formatting.Analyzers" RuleNamespace="Roslynator.Formatting.Analyzers">
+    <Rule Id="RCS0001" Action="Info" />
+    <Rule Id="RCS0002" Action="Info" />
+    <Rule Id="RCS0003" Action="Info" />
+    <Rule Id="RCS0005" Action="Info" />
+    <Rule Id="RCS0006" Action="Info" />
+    <Rule Id="RCS0007" Action="Info" />
+    <Rule Id="RCS0008" Action="Info" />
+    <Rule Id="RCS0009" Action="Info" />
+    <Rule Id="RCS0010" Action="Info" />
+    <Rule Id="RCS0011" Action="Info" />
+    <Rule Id="RCS0013" Action="Info" />
+    <Rule Id="RCS0014" Action="Info" />
+    <Rule Id="RCS0015" Action="Info" />
+    <Rule Id="RCS0016" Action="Info" />
+    <Rule Id="RCS0020" Action="Warning" />
+    <Rule Id="RCS0023" Action="Info" />
+    <Rule Id="RCS0024" Action="Info" />
+    <Rule Id="RCS0025" Action="Info" />
+    <Rule Id="RCS0027" Action="Info" />
+    <Rule Id="RCS0028" Action="Info" />
+    <Rule Id="RCS0029" Action="Info" />
+    <Rule Id="RCS0030" Action="Info" />
+    <Rule Id="RCS0031" Action="Info" />
+    <Rule Id="RCS0032" Action="Info" />
+    <Rule Id="RCS0033" Action="Info" />
+    <Rule Id="RCS0034" Action="Info" />
+    <Rule Id="RCS0038" Action="Info" />
+    <Rule Id="RCS0039" Action="Info" />
+    <Rule Id="RCS0041" Action="Info" />
+    <Rule Id="RCS0042" Action="Info" />
+    <Rule Id="RCS0044" Action="Info" />
+    <Rule Id="RCS0046" Action="Info" />
+    <Rule Id="RCS0048" Action="Info" />
+    <Rule Id="RCS0049" Action="Info" />
+    <Rule Id="RCS0050" Action="Info" />
+    <Rule Id="RCS0051" Action="Info" />
+    <Rule Id="RCS0052" Action="Info" />
+    <Rule Id="RCS0053" Action="Info" />
+    <Rule Id="RCS0054" Action="Info" />
+    <Rule Id="RCS0055" Action="Info" />
+    <Rule Id="RCS0056" Action="Info" />
+    <Rule Id="RCS0057" Action="Info" />
+    <Rule Id="RCS0058" Action="Info" />
+    <Rule Id="RCS0059" Action="Info" />
+  </Rules>
+</RuleSet>

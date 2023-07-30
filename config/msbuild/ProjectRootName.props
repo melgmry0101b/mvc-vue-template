@@ -1,0 +1,14 @@
+<!--
+  ***********************************
+  ProjectRootName.props
+
+  Defines the root name used for solution's projects
+
+  MSBuild configurations
+  ***********************************
+-->
+<Project>
+  <PropertyGroup>
+    <ProjectRootName>MvcVueTemplate</ProjectRootName>
+  </PropertyGroup>
+</Project>
